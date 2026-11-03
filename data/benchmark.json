@@ -1,0 +1,3189 @@
+{
+  "generatedAt": "2026-11-03T05:30:13.725Z",
+  "days": [
+    "2026-10-04",
+    "2026-10-05",
+    "2026-10-06",
+    "2026-10-07",
+    "2026-10-08",
+    "2026-10-09",
+    "2026-10-10",
+    "2026-10-11",
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18",
+    "2026-10-19",
+    "2026-10-20",
+    "2026-10-21",
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-24",
+    "2026-10-25",
+    "2026-10-26",
+    "2026-10-27",
+    "2026-10-28",
+    "2026-10-29",
+    "2026-10-30",
+    "2026-10-31",
+    "2026-11-01",
+    "2026-11-02"
+  ],
+  "pairs": [
+    {
+      "engine": "AIMODE",
+      "provider": "brightdata",
+      "attempts": 12575,
+      "successRatePct": 50.1,
+      "cloroAttempts": 12579,
+      "cloroSuccessRatePct": 98.8,
+      "latencyS": 84.7,
+      "cloroLatencyS": 17.6,
+      "daily": [
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 79.1,
+          "cloroLatencyS": 16.6
+        },
+        {
+          "pct": 82.6,
+          "cloroPct": 95.9,
+          "latencyS": 66,
+          "cloroLatencyS": 16.3
+        },
+        {
+          "pct": 52,
+          "cloroPct": 99,
+          "latencyS": 31.1,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 46.7,
+          "cloroPct": 99.8,
+          "latencyS": 76.5,
+          "cloroLatencyS": 18.3
+        },
+        {
+          "pct": 85.7,
+          "cloroPct": 97.4,
+          "latencyS": 130.8,
+          "cloroLatencyS": 22.7
+        },
+        {
+          "pct": 89.3,
+          "cloroPct": 97.4,
+          "latencyS": 114.3,
+          "cloroLatencyS": 22.5
+        },
+        {
+          "pct": 63.7,
+          "cloroPct": 98.8,
+          "latencyS": 106.9,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 12.2,
+          "cloroPct": 99.5,
+          "latencyS": 376.5,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 0.2,
+          "cloroPct": 98.1,
+          "latencyS": 625.3,
+          "cloroLatencyS": 21.2
+        },
+        {
+          "pct": 0,
+          "cloroPct": 92.8,
+          "latencyS": null,
+          "cloroLatencyS": 25.7
+        },
+        {
+          "pct": 0,
+          "cloroPct": 91.4,
+          "latencyS": null,
+          "cloroLatencyS": 20.9
+        },
+        {
+          "pct": 30.8,
+          "cloroPct": 99.5,
+          "latencyS": 78.1,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 78.8,
+          "cloroPct": 99.3,
+          "latencyS": 86.9,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 20.3,
+          "cloroPct": 99.8,
+          "latencyS": 132.9,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 7.2,
+          "cloroPct": 99.8,
+          "latencyS": 171.9,
+          "cloroLatencyS": 16.8
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 17.5
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 13.8,
+          "cloroPct": 100,
+          "latencyS": 56.6,
+          "cloroLatencyS": 14.3
+        },
+        {
+          "pct": 90.5,
+          "cloroPct": 100,
+          "latencyS": 100.3,
+          "cloroLatencyS": 14.1
+        },
+        {
+          "pct": 82.6,
+          "cloroPct": 98.3,
+          "latencyS": 69.4,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 92.4,
+          "cloroPct": 99.5,
+          "latencyS": 65.1,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 94.5,
+          "cloroPct": 99.8,
+          "latencyS": 80.4,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 83.3,
+          "cloroPct": 100,
+          "latencyS": 76.3,
+          "cloroLatencyS": 16.4
+        },
+        {
+          "pct": 94.5,
+          "cloroPct": 100,
+          "latencyS": 70,
+          "cloroLatencyS": 14.5
+        },
+        {
+          "pct": 97.9,
+          "cloroPct": 99.5,
+          "latencyS": 75.1,
+          "cloroLatencyS": 15.2
+        },
+        {
+          "pct": 98.3,
+          "cloroPct": 100,
+          "latencyS": 68.8,
+          "cloroLatencyS": 13.9
+        },
+        {
+          "pct": 89,
+          "cloroPct": 99.8,
+          "latencyS": 73.9,
+          "cloroLatencyS": 14.4
+        }
+      ]
+    },
+    {
+      "engine": "CHATGPT",
+      "provider": "brightdata",
+      "attempts": 12570,
+      "successRatePct": 52.9,
+      "cloroAttempts": 12577,
+      "cloroSuccessRatePct": 96.6,
+      "latencyS": 124,
+      "cloroLatencyS": 53.3,
+      "daily": [
+        {
+          "pct": 93.8,
+          "cloroPct": 98.1,
+          "latencyS": 76.3,
+          "cloroLatencyS": 41.4
+        },
+        {
+          "pct": 73.3,
+          "cloroPct": 91.9,
+          "latencyS": 68.2,
+          "cloroLatencyS": 47.1
+        },
+        {
+          "pct": 55.6,
+          "cloroPct": 98.8,
+          "latencyS": 46.8,
+          "cloroLatencyS": 46.7
+        },
+        {
+          "pct": 76.2,
+          "cloroPct": 98.1,
+          "latencyS": 73.9,
+          "cloroLatencyS": 54.7
+        },
+        {
+          "pct": 89.7,
+          "cloroPct": 99,
+          "latencyS": 83.7,
+          "cloroLatencyS": 49.9
+        },
+        {
+          "pct": 0,
+          "cloroPct": 98.1,
+          "latencyS": null,
+          "cloroLatencyS": 77.3
+        },
+        {
+          "pct": 0.7,
+          "cloroPct": 96.2,
+          "latencyS": 93.9,
+          "cloroLatencyS": 85.4
+        },
+        {
+          "pct": 0.5,
+          "cloroPct": 96.9,
+          "latencyS": 44.2,
+          "cloroLatencyS": 69.6
+        },
+        {
+          "pct": 0,
+          "cloroPct": 97.1,
+          "latencyS": null,
+          "cloroLatencyS": 71.9
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 62.5
+        },
+        {
+          "pct": 33.6,
+          "cloroPct": 99.1,
+          "latencyS": 252.6,
+          "cloroLatencyS": 51.2
+        },
+        {
+          "pct": 34.1,
+          "cloroPct": 99.5,
+          "latencyS": 146.5,
+          "cloroLatencyS": 48.6
+        },
+        {
+          "pct": 53.6,
+          "cloroPct": 99.3,
+          "latencyS": 140.7,
+          "cloroLatencyS": 44.4
+        },
+        {
+          "pct": 58.5,
+          "cloroPct": 98.6,
+          "latencyS": 142.9,
+          "cloroLatencyS": 40.5
+        },
+        {
+          "pct": 55.1,
+          "cloroPct": 99.8,
+          "latencyS": 153.9,
+          "cloroLatencyS": 43.7
+        },
+        {
+          "pct": 52.3,
+          "cloroPct": 99,
+          "latencyS": 142.7,
+          "cloroLatencyS": 45.1
+        },
+        {
+          "pct": 52.5,
+          "cloroPct": 99.3,
+          "latencyS": 133.5,
+          "cloroLatencyS": 44.5
+        },
+        {
+          "pct": 64.8,
+          "cloroPct": 99.3,
+          "latencyS": 133,
+          "cloroLatencyS": 47.6
+        },
+        {
+          "pct": 61.8,
+          "cloroPct": 93.1,
+          "latencyS": 136.8,
+          "cloroLatencyS": 51.2
+        },
+        {
+          "pct": 58.7,
+          "cloroPct": 88.1,
+          "latencyS": 139.6,
+          "cloroLatencyS": 59.5
+        },
+        {
+          "pct": 68.7,
+          "cloroPct": 58.9,
+          "latencyS": 138.1,
+          "cloroLatencyS": 52.1
+        },
+        {
+          "pct": 73.7,
+          "cloroPct": 99.3,
+          "latencyS": 136.3,
+          "cloroLatencyS": 43.3
+        },
+        {
+          "pct": 75.4,
+          "cloroPct": 99,
+          "latencyS": 129.6,
+          "cloroLatencyS": 44.5
+        },
+        {
+          "pct": 66.6,
+          "cloroPct": 98.1,
+          "latencyS": 135,
+          "cloroLatencyS": 50.9
+        },
+        {
+          "pct": 71.6,
+          "cloroPct": 98.1,
+          "latencyS": 126,
+          "cloroLatencyS": 59.9
+        },
+        {
+          "pct": 49,
+          "cloroPct": 99.8,
+          "latencyS": 148,
+          "cloroLatencyS": 51.1
+        },
+        {
+          "pct": 60.6,
+          "cloroPct": 98.8,
+          "latencyS": 140.8,
+          "cloroLatencyS": 49.1
+        },
+        {
+          "pct": 71.4,
+          "cloroPct": 97.6,
+          "latencyS": 138.1,
+          "cloroLatencyS": 63.8
+        },
+        {
+          "pct": 68.3,
+          "cloroPct": 100,
+          "latencyS": 127.5,
+          "cloroLatencyS": 52.7
+        },
+        {
+          "pct": 68,
+          "cloroPct": 99.8,
+          "latencyS": 138.8,
+          "cloroLatencyS": 51.5
+        }
+      ]
+    },
+    {
+      "engine": "COPILOT",
+      "provider": "brightdata",
+      "attempts": 12581,
+      "successRatePct": 4.8,
+      "cloroAttempts": 12583,
+      "cloroSuccessRatePct": 99.8,
+      "latencyS": 93,
+      "cloroLatencyS": 50.7,
+      "daily": [
+        {
+          "pct": 99.8,
+          "cloroPct": 99.8,
+          "latencyS": 87.6,
+          "cloroLatencyS": 45.9
+        },
+        {
+          "pct": 37.5,
+          "cloroPct": 98.1,
+          "latencyS": 89.6,
+          "cloroLatencyS": 56.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 80.5
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 53.2
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 53.9
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 57.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 51.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 51.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 52.6
+        },
+        {
+          "pct": 7.6,
+          "cloroPct": 100,
+          "latencyS": 180.5,
+          "cloroLatencyS": 52.2
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 51.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 53.4
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 49.6
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 45.7
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 43.2
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 48.7
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 47
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 47.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 48.5
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 49.4
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 48.1
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 44.2
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 49.2
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 51.1
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 51.8
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 51.9
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 47.1
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.5,
+          "latencyS": null,
+          "cloroLatencyS": 49.5
+        },
+        {
+          "pct": 0,
+          "cloroPct": 100,
+          "latencyS": null,
+          "cloroLatencyS": 45.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 99.8,
+          "latencyS": null,
+          "cloroLatencyS": 45.2
+        }
+      ]
+    },
+    {
+      "engine": "GEMINI",
+      "provider": "brightdata",
+      "attempts": 12590,
+      "successRatePct": 97.1,
+      "cloroAttempts": 12591,
+      "cloroSuccessRatePct": 99.5,
+      "latencyS": 64.5,
+      "cloroLatencyS": 42.4,
+      "daily": [
+        {
+          "pct": 99.8,
+          "cloroPct": 98.8,
+          "latencyS": 49.2,
+          "cloroLatencyS": 46.8
+        },
+        {
+          "pct": 90.5,
+          "cloroPct": 97.6,
+          "latencyS": 43.4,
+          "cloroLatencyS": 50.2
+        },
+        {
+          "pct": 83.1,
+          "cloroPct": 100,
+          "latencyS": 35.1,
+          "cloroLatencyS": 48.1
+        },
+        {
+          "pct": 92.4,
+          "cloroPct": 99.5,
+          "latencyS": 54.2,
+          "cloroLatencyS": 53.2
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 99,
+          "latencyS": 58.8,
+          "cloroLatencyS": 61.4
+        },
+        {
+          "pct": 99.3,
+          "cloroPct": 99.3,
+          "latencyS": 50.4,
+          "cloroLatencyS": 65.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 55,
+          "cloroLatencyS": 59.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 60.6,
+          "cloroLatencyS": 54.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 57.6,
+          "cloroLatencyS": 54.5
+        },
+        {
+          "pct": 99,
+          "cloroPct": 99.5,
+          "latencyS": 60.6,
+          "cloroLatencyS": 58.1
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 100,
+          "latencyS": 63.7,
+          "cloroLatencyS": 48.4
+        },
+        {
+          "pct": 98.3,
+          "cloroPct": 100,
+          "latencyS": 57.6,
+          "cloroLatencyS": 47.4
+        },
+        {
+          "pct": 96.7,
+          "cloroPct": 94,
+          "latencyS": 72.4,
+          "cloroLatencyS": 55.5
+        },
+        {
+          "pct": 98.3,
+          "cloroPct": 100,
+          "latencyS": 65.3,
+          "cloroLatencyS": 39.9
+        },
+        {
+          "pct": 99,
+          "cloroPct": 99.8,
+          "latencyS": 65.7,
+          "cloroLatencyS": 39.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 65.5,
+          "cloroLatencyS": 42.1
+        },
+        {
+          "pct": 99,
+          "cloroPct": 100,
+          "latencyS": 76.3,
+          "cloroLatencyS": 44.4
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 99.8,
+          "latencyS": 67.3,
+          "cloroLatencyS": 31.9
+        },
+        {
+          "pct": 99,
+          "cloroPct": 99.8,
+          "latencyS": 68.1,
+          "cloroLatencyS": 35.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 66.9,
+          "cloroLatencyS": 36.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 67.7,
+          "cloroLatencyS": 33
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 61.3,
+          "cloroLatencyS": 24.8
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 73.5,
+          "cloroLatencyS": 29.1
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 100,
+          "latencyS": 66.1,
+          "cloroLatencyS": 23
+        },
+        {
+          "pct": 95.2,
+          "cloroPct": 100,
+          "latencyS": 79,
+          "cloroLatencyS": 34.9
+        },
+        {
+          "pct": 72.8,
+          "cloroPct": 99.8,
+          "latencyS": 84.7,
+          "cloroLatencyS": 38.3
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 100,
+          "latencyS": 75.8,
+          "cloroLatencyS": 24.9
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 99.3,
+          "latencyS": 76.4,
+          "cloroLatencyS": 29.5
+        },
+        {
+          "pct": 98.3,
+          "cloroPct": 99.5,
+          "latencyS": 76.5,
+          "cloroLatencyS": 30.6
+        },
+        {
+          "pct": 97.6,
+          "cloroPct": 99.5,
+          "latencyS": 79.5,
+          "cloroLatencyS": 33.7
+        }
+      ]
+    },
+    {
+      "engine": "PERPLEXITY",
+      "provider": "brightdata",
+      "attempts": 12615,
+      "successRatePct": 1.3,
+      "cloroAttempts": 12637,
+      "cloroSuccessRatePct": 6.3,
+      "latencyS": 249.5,
+      "cloroLatencyS": 160.4,
+      "daily": [
+        {
+          "pct": 1.2,
+          "cloroPct": 49.2,
+          "latencyS": 224.7,
+          "cloroLatencyS": 159.6
+        },
+        {
+          "pct": 0.7,
+          "cloroPct": 49.6,
+          "latencyS": 477,
+          "cloroLatencyS": 168.2
+        },
+        {
+          "pct": 0,
+          "cloroPct": 32.9,
+          "latencyS": null,
+          "cloroLatencyS": 161.8
+        },
+        {
+          "pct": 0.7,
+          "cloroPct": 11.5,
+          "latencyS": 257.9,
+          "cloroLatencyS": 184.4
+        },
+        {
+          "pct": 2.1,
+          "cloroPct": 27.2,
+          "latencyS": 335.9,
+          "cloroLatencyS": 202.3
+        },
+        {
+          "pct": 3.8,
+          "cloroPct": 1.7,
+          "latencyS": 291.1,
+          "cloroLatencyS": 95.2
+        },
+        {
+          "pct": 4.1,
+          "cloroPct": 0.7,
+          "latencyS": 235.1,
+          "cloroLatencyS": 64.6
+        },
+        {
+          "pct": 5.7,
+          "cloroPct": 0.2,
+          "latencyS": 298.6,
+          "cloroLatencyS": 58
+        },
+        {
+          "pct": 2.1,
+          "cloroPct": 0.2,
+          "latencyS": 242.2,
+          "cloroLatencyS": 88.7
+        },
+        {
+          "pct": 4.3,
+          "cloroPct": 1,
+          "latencyS": 324.4,
+          "cloroLatencyS": 71.5
+        },
+        {
+          "pct": 4.1,
+          "cloroPct": 0,
+          "latencyS": 260.9,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 3.5,
+          "cloroPct": 0,
+          "latencyS": 174.1,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 3.1,
+          "cloroPct": 0,
+          "latencyS": 134.9,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0.2,
+          "cloroPct": 0,
+          "latencyS": 15.9,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0.2,
+          "cloroPct": 0,
+          "latencyS": 13.8,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0,
+          "latencyS": null,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0.2,
+          "cloroPct": 0,
+          "latencyS": 34.1,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0,
+          "cloroPct": 0.2,
+          "latencyS": null,
+          "cloroLatencyS": 27.7
+        },
+        {
+          "pct": 0.5,
+          "cloroPct": 0,
+          "latencyS": 5.8,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0.7,
+          "cloroPct": 2.1,
+          "latencyS": 85.5,
+          "cloroLatencyS": 43.1
+        },
+        {
+          "pct": 0.5,
+          "cloroPct": 5,
+          "latencyS": 165.5,
+          "cloroLatencyS": 52.1
+        },
+        {
+          "pct": 0,
+          "cloroPct": 3.8,
+          "latencyS": null,
+          "cloroLatencyS": 81.3
+        },
+        {
+          "pct": 0,
+          "cloroPct": 3.6,
+          "latencyS": null,
+          "cloroLatencyS": 54.2
+        }
+      ]
+    },
+    {
+      "engine": "AIMODE",
+      "provider": "oxylabs",
+      "attempts": 12593,
+      "successRatePct": 96.7,
+      "cloroAttempts": 12594,
+      "cloroSuccessRatePct": 98.8,
+      "latencyS": 28.5,
+      "cloroLatencyS": 17.6,
+      "daily": [
+        {
+          "pct": 96.4,
+          "cloroPct": 100,
+          "latencyS": 25.5,
+          "cloroLatencyS": 16.6
+        },
+        {
+          "pct": 97.4,
+          "cloroPct": 95.9,
+          "latencyS": 27.7,
+          "cloroLatencyS": 16.3
+        },
+        {
+          "pct": 96.9,
+          "cloroPct": 99,
+          "latencyS": 34.1,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 97.6,
+          "cloroPct": 99.8,
+          "latencyS": 27.8,
+          "cloroLatencyS": 18.2
+        },
+        {
+          "pct": 89.3,
+          "cloroPct": 97.4,
+          "latencyS": 28.7,
+          "cloroLatencyS": 22.7
+        },
+        {
+          "pct": 97.6,
+          "cloroPct": 97.4,
+          "latencyS": 29.5,
+          "cloroLatencyS": 22.5
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 98.8,
+          "latencyS": 29.9,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 97.9,
+          "cloroPct": 99.5,
+          "latencyS": 27,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 98.1,
+          "cloroPct": 98.1,
+          "latencyS": 29.1,
+          "cloroLatencyS": 21.2
+        },
+        {
+          "pct": 97.6,
+          "cloroPct": 92.8,
+          "latencyS": 29.7,
+          "cloroLatencyS": 25.7
+        },
+        {
+          "pct": 80.1,
+          "cloroPct": 91.4,
+          "latencyS": 30.4,
+          "cloroLatencyS": 21
+        },
+        {
+          "pct": 95.2,
+          "cloroPct": 99.5,
+          "latencyS": 32.7,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 98.6,
+          "cloroPct": 99.3,
+          "latencyS": 30.2,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 97.1,
+          "cloroPct": 99.8,
+          "latencyS": 26,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 99.8,
+          "latencyS": 25.2,
+          "cloroLatencyS": 16.8
+        },
+        {
+          "pct": 98.3,
+          "cloroPct": 99.8,
+          "latencyS": 26.1,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 97.6,
+          "cloroPct": 99.8,
+          "latencyS": 27.8,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 97.9,
+          "cloroPct": 99.8,
+          "latencyS": 28.3,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 97.4,
+          "cloroPct": 99.8,
+          "latencyS": 27.9,
+          "cloroLatencyS": 17.5
+        },
+        {
+          "pct": 97.9,
+          "cloroPct": 99.8,
+          "latencyS": 29.8,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 98.6,
+          "cloroPct": 100,
+          "latencyS": 26.5,
+          "cloroLatencyS": 14.3
+        },
+        {
+          "pct": 98.6,
+          "cloroPct": 100,
+          "latencyS": 27.4,
+          "cloroLatencyS": 14.1
+        },
+        {
+          "pct": 97.1,
+          "cloroPct": 98.3,
+          "latencyS": 27.4,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 95.7,
+          "cloroPct": 99.5,
+          "latencyS": 33.9,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 96.2,
+          "cloroPct": 99.8,
+          "latencyS": 29.9,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 100,
+          "latencyS": 28.2,
+          "cloroLatencyS": 16.4
+        },
+        {
+          "pct": 92.4,
+          "cloroPct": 100,
+          "latencyS": 28,
+          "cloroLatencyS": 14.5
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.5,
+          "latencyS": 26.6,
+          "cloroLatencyS": 15.2
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 100,
+          "latencyS": 26.7,
+          "cloroLatencyS": 13.9
+        },
+        {
+          "pct": 97.4,
+          "cloroPct": 99.8,
+          "latencyS": 27.4,
+          "cloroLatencyS": 14.4
+        }
+      ]
+    },
+    {
+      "engine": "CHATGPT",
+      "provider": "oxylabs",
+      "attempts": 12589,
+      "successRatePct": 96.7,
+      "cloroAttempts": 12594,
+      "cloroSuccessRatePct": 96.6,
+      "latencyS": 71.9,
+      "cloroLatencyS": 53.3,
+      "daily": [
+        {
+          "pct": 98.3,
+          "cloroPct": 98.1,
+          "latencyS": 55.3,
+          "cloroLatencyS": 41.4
+        },
+        {
+          "pct": 97.9,
+          "cloroPct": 91.9,
+          "latencyS": 63.6,
+          "cloroLatencyS": 47.1
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 98.8,
+          "latencyS": 59.8,
+          "cloroLatencyS": 46.7
+        },
+        {
+          "pct": 93.5,
+          "cloroPct": 98.1,
+          "latencyS": 108.8,
+          "cloroLatencyS": 54.7
+        },
+        {
+          "pct": 79,
+          "cloroPct": 99,
+          "latencyS": 98.7,
+          "cloroLatencyS": 49.9
+        },
+        {
+          "pct": 87.4,
+          "cloroPct": 98.1,
+          "latencyS": 107,
+          "cloroLatencyS": 77.3
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 96.2,
+          "latencyS": 59.8,
+          "cloroLatencyS": 85.3
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 96.9,
+          "latencyS": 60.3,
+          "cloroLatencyS": 69.6
+        },
+        {
+          "pct": 99,
+          "cloroPct": 97.1,
+          "latencyS": 65.2,
+          "cloroLatencyS": 71.9
+        },
+        {
+          "pct": 99,
+          "cloroPct": 99.8,
+          "latencyS": 66.1,
+          "cloroLatencyS": 62.5
+        },
+        {
+          "pct": 80.5,
+          "cloroPct": 99.1,
+          "latencyS": 66.8,
+          "cloroLatencyS": 51.2
+        },
+        {
+          "pct": 95.9,
+          "cloroPct": 99.5,
+          "latencyS": 64.7,
+          "cloroLatencyS": 48.6
+        },
+        {
+          "pct": 98.6,
+          "cloroPct": 99.3,
+          "latencyS": 63.6,
+          "cloroLatencyS": 44.4
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 98.6,
+          "latencyS": 61.2,
+          "cloroLatencyS": 40.5
+        },
+        {
+          "pct": 99.3,
+          "cloroPct": 99.8,
+          "latencyS": 64,
+          "cloroLatencyS": 43.7
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 99,
+          "latencyS": 67.1,
+          "cloroLatencyS": 45.3
+        },
+        {
+          "pct": 97.6,
+          "cloroPct": 99.3,
+          "latencyS": 68.7,
+          "cloroLatencyS": 44.5
+        },
+        {
+          "pct": 97.8,
+          "cloroPct": 99.3,
+          "latencyS": 64.7,
+          "cloroLatencyS": 47.6
+        },
+        {
+          "pct": 98.1,
+          "cloroPct": 93.1,
+          "latencyS": 62.7,
+          "cloroLatencyS": 51.2
+        },
+        {
+          "pct": 99.3,
+          "cloroPct": 88.1,
+          "latencyS": 69.8,
+          "cloroLatencyS": 59.5
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 58.9,
+          "latencyS": 60.2,
+          "cloroLatencyS": 52.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.3,
+          "latencyS": 53.6,
+          "cloroLatencyS": 43.3
+        },
+        {
+          "pct": 98.3,
+          "cloroPct": 99,
+          "latencyS": 50.5,
+          "cloroLatencyS": 44.5
+        },
+        {
+          "pct": 98.3,
+          "cloroPct": 98.1,
+          "latencyS": 69.4,
+          "cloroLatencyS": 50.9
+        },
+        {
+          "pct": 96.9,
+          "cloroPct": 98.1,
+          "latencyS": 77.1,
+          "cloroLatencyS": 59.9
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.8,
+          "latencyS": 73.9,
+          "cloroLatencyS": 51.1
+        },
+        {
+          "pct": 93.1,
+          "cloroPct": 98.8,
+          "latencyS": 95.2,
+          "cloroLatencyS": 49.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 97.6,
+          "latencyS": 90.1,
+          "cloroLatencyS": 63.8
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 100,
+          "latencyS": 99.5,
+          "cloroLatencyS": 52.7
+        },
+        {
+          "pct": 98.6,
+          "cloroPct": 99.8,
+          "latencyS": 100.6,
+          "cloroLatencyS": 51.5
+        }
+      ]
+    },
+    {
+      "engine": "GEMINI",
+      "provider": "oxylabs",
+      "attempts": 12590,
+      "successRatePct": 97.3,
+      "cloroAttempts": 12592,
+      "cloroSuccessRatePct": 99.5,
+      "latencyS": 44.9,
+      "cloroLatencyS": 42.4,
+      "daily": [
+        {
+          "pct": 99.8,
+          "cloroPct": 98.8,
+          "latencyS": 54.7,
+          "cloroLatencyS": 46.8
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 97.6,
+          "latencyS": 58.3,
+          "cloroLatencyS": 50.2
+        },
+        {
+          "pct": 99,
+          "cloroPct": 100,
+          "latencyS": 58.6,
+          "cloroLatencyS": 48.1
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.5,
+          "latencyS": 54.3,
+          "cloroLatencyS": 53.3
+        },
+        {
+          "pct": 86.9,
+          "cloroPct": 99,
+          "latencyS": 55.9,
+          "cloroLatencyS": 61.4
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 99.3,
+          "latencyS": 48.6,
+          "cloroLatencyS": 65.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 47.3,
+          "cloroLatencyS": 59.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 50.2,
+          "cloroLatencyS": 54.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 55,
+          "cloroLatencyS": 54.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.5,
+          "latencyS": 52.6,
+          "cloroLatencyS": 58.1
+        },
+        {
+          "pct": 81.9,
+          "cloroPct": 100,
+          "latencyS": 55.3,
+          "cloroLatencyS": 48.4
+        },
+        {
+          "pct": 97.9,
+          "cloroPct": 100,
+          "latencyS": 51.5,
+          "cloroLatencyS": 47.4
+        },
+        {
+          "pct": 90.5,
+          "cloroPct": 94,
+          "latencyS": 62,
+          "cloroLatencyS": 55.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 54.4,
+          "cloroLatencyS": 39.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 53.6,
+          "cloroLatencyS": 39.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 54.3,
+          "cloroLatencyS": 42.1
+        },
+        {
+          "pct": 81.9,
+          "cloroPct": 100,
+          "latencyS": 55.6,
+          "cloroLatencyS": 44.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 37.1,
+          "cloroLatencyS": 31.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 35.4,
+          "cloroLatencyS": 35.1
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 100,
+          "latencyS": 32.2,
+          "cloroLatencyS": 36.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 32,
+          "cloroLatencyS": 33
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 33.1,
+          "cloroLatencyS": 24.8
+        },
+        {
+          "pct": 98.6,
+          "cloroPct": 100,
+          "latencyS": 33.4,
+          "cloroLatencyS": 29.1
+        },
+        {
+          "pct": 97.4,
+          "cloroPct": 100,
+          "latencyS": 35.7,
+          "cloroLatencyS": 23
+        },
+        {
+          "pct": 95.5,
+          "cloroPct": 100,
+          "latencyS": 36,
+          "cloroLatencyS": 34.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 33.8,
+          "cloroLatencyS": 38.3
+        },
+        {
+          "pct": 93.3,
+          "cloroPct": 100,
+          "latencyS": 29.8,
+          "cloroLatencyS": 24.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.3,
+          "latencyS": 30.3,
+          "cloroLatencyS": 29.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.5,
+          "latencyS": 31.5,
+          "cloroLatencyS": 30.6
+        },
+        {
+          "pct": 98.6,
+          "cloroPct": 99.5,
+          "latencyS": 30.5,
+          "cloroLatencyS": 33.7
+        }
+      ]
+    },
+    {
+      "engine": "PERPLEXITY",
+      "provider": "oxylabs",
+      "attempts": 12626,
+      "successRatePct": 18.9,
+      "cloroAttempts": 12640,
+      "cloroSuccessRatePct": 6.3,
+      "latencyS": 77.8,
+      "cloroLatencyS": 160.4,
+      "daily": [
+        {
+          "pct": 93.8,
+          "cloroPct": 49.2,
+          "latencyS": 65.3,
+          "cloroLatencyS": 159.6
+        },
+        {
+          "pct": 97.4,
+          "cloroPct": 49.6,
+          "latencyS": 68.5,
+          "cloroLatencyS": 168.2
+        },
+        {
+          "pct": 72.1,
+          "cloroPct": 32.9,
+          "latencyS": 81.3,
+          "cloroLatencyS": 161.8
+        },
+        {
+          "pct": 24.3,
+          "cloroPct": 11.5,
+          "latencyS": 61.2,
+          "cloroLatencyS": 184.4
+        },
+        {
+          "pct": 60.4,
+          "cloroPct": 27.2,
+          "latencyS": 85.1,
+          "cloroLatencyS": 202.3
+        },
+        {
+          "pct": 10,
+          "cloroPct": 1.7,
+          "latencyS": 36,
+          "cloroLatencyS": 95.2
+        },
+        {
+          "pct": 16.1,
+          "cloroPct": 0.7,
+          "latencyS": 36.8,
+          "cloroLatencyS": 64.6
+        },
+        {
+          "pct": 31,
+          "cloroPct": 0.2,
+          "latencyS": 41.7,
+          "cloroLatencyS": 58
+        },
+        {
+          "pct": 5.7,
+          "cloroPct": 0.2,
+          "latencyS": 52.4,
+          "cloroLatencyS": 88.7
+        },
+        {
+          "pct": 11.7,
+          "cloroPct": 1,
+          "latencyS": 59.3,
+          "cloroLatencyS": 71.5
+        },
+        {
+          "pct": 4.8,
+          "cloroPct": 0,
+          "latencyS": 47,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 9.9,
+          "cloroPct": 0,
+          "latencyS": 45.5,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 22.7,
+          "cloroPct": 0,
+          "latencyS": 124.7,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 1.2,
+          "cloroPct": 0,
+          "latencyS": 36,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 1.4,
+          "cloroPct": 0,
+          "latencyS": 41.3,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 0.5,
+          "cloroPct": 0,
+          "latencyS": 41.1,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 3.3,
+          "cloroPct": 0,
+          "latencyS": 68.1,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 2.1,
+          "cloroPct": 0,
+          "latencyS": 91.1,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 2.6,
+          "cloroPct": 0,
+          "latencyS": 70,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 21.2,
+          "cloroPct": 0,
+          "latencyS": 144.3,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 30.1,
+          "cloroPct": 0,
+          "latencyS": 165.7,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 12.6,
+          "cloroPct": 0,
+          "latencyS": 129.3,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 9.2,
+          "cloroPct": 0,
+          "latencyS": 52.4,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 6.4,
+          "cloroPct": 0,
+          "latencyS": 50.2,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 5.5,
+          "cloroPct": 0.2,
+          "latencyS": 48.7,
+          "cloroLatencyS": 27.7
+        },
+        {
+          "pct": 1.7,
+          "cloroPct": 0,
+          "latencyS": 62.4,
+          "cloroLatencyS": null
+        },
+        {
+          "pct": 3.2,
+          "cloroPct": 2.1,
+          "latencyS": 55.7,
+          "cloroLatencyS": 43.1
+        },
+        {
+          "pct": 1.7,
+          "cloroPct": 5,
+          "latencyS": 59.7,
+          "cloroLatencyS": 52.1
+        },
+        {
+          "pct": 1.7,
+          "cloroPct": 3.8,
+          "latencyS": 48.8,
+          "cloroLatencyS": 81.3
+        },
+        {
+          "pct": 4.1,
+          "cloroPct": 3.6,
+          "latencyS": 68.9,
+          "cloroLatencyS": 54.2
+        }
+      ]
+    },
+    {
+      "engine": "GOOGLE_KEYWORD",
+      "provider": "oxylabs",
+      "attempts": 3669,
+      "successRatePct": 94.4,
+      "cloroAttempts": 3669,
+      "cloroSuccessRatePct": 99.2,
+      "latencyS": 6.2,
+      "cloroLatencyS": 7.3,
+      "daily": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5,
+          "cloroLatencyS": 5.6
+        },
+        {
+          "pct": 99,
+          "cloroPct": 100,
+          "latencyS": 5.2,
+          "cloroLatencyS": 6.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.2,
+          "cloroLatencyS": 6.6
+        },
+        {
+          "pct": 99.7,
+          "cloroPct": 100,
+          "latencyS": 5.4,
+          "cloroLatencyS": 7.8
+        },
+        {
+          "pct": 80.1,
+          "cloroPct": 100,
+          "latencyS": 5.8,
+          "cloroLatencyS": 6.8
+        },
+        {
+          "pct": 94.1,
+          "cloroPct": 100,
+          "latencyS": 6.7,
+          "cloroLatencyS": 7.1
+        },
+        {
+          "pct": 98.5,
+          "cloroPct": 100,
+          "latencyS": 5.7,
+          "cloroLatencyS": 7.2
+        },
+        {
+          "pct": 86,
+          "cloroPct": 100,
+          "latencyS": 7.9,
+          "cloroLatencyS": 6.2
+        },
+        {
+          "pct": 90,
+          "cloroPct": 99,
+          "latencyS": 6.8,
+          "cloroLatencyS": 6.3
+        },
+        {
+          "pct": 75,
+          "cloroPct": 100,
+          "latencyS": 8.1,
+          "cloroLatencyS": 6.9
+        },
+        {
+          "pct": 86,
+          "cloroPct": 100,
+          "latencyS": 6.5,
+          "cloroLatencyS": 6.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.4,
+          "cloroLatencyS": 7.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.9,
+          "cloroLatencyS": 9.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.7,
+          "cloroLatencyS": 8.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.4,
+          "cloroLatencyS": 5.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 5.5,
+          "cloroLatencyS": 4.3
+        },
+        {
+          "pct": 99,
+          "cloroPct": 99,
+          "latencyS": 5.7,
+          "cloroLatencyS": 5.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 8.3,
+          "cloroLatencyS": 5.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.6,
+          "cloroLatencyS": 8.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.9,
+          "cloroLatencyS": 9.1
+        },
+        {
+          "pct": 94,
+          "cloroPct": 75,
+          "latencyS": 7.7,
+          "cloroLatencyS": 16
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 7.2,
+          "cloroLatencyS": 10
+        },
+        {
+          "pct": 99,
+          "cloroPct": 100,
+          "latencyS": 6.7,
+          "cloroLatencyS": 7.6
+        },
+        {
+          "pct": 95,
+          "cloroPct": 100,
+          "latencyS": 6.7,
+          "cloroLatencyS": 8.2
+        }
+      ]
+    },
+    {
+      "engine": "AIMODE",
+      "provider": "dataforseo",
+      "attempts": 12595,
+      "successRatePct": 90.5,
+      "cloroAttempts": 12595,
+      "cloroSuccessRatePct": 98.8,
+      "latencyS": 11.1,
+      "cloroLatencyS": 17.6,
+      "daily": [
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 12.2,
+          "cloroLatencyS": 16.6
+        },
+        {
+          "pct": 92.1,
+          "cloroPct": 95.9,
+          "latencyS": 17.6,
+          "cloroLatencyS": 16.3
+        },
+        {
+          "pct": 87.1,
+          "cloroPct": 99,
+          "latencyS": 18.8,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 92.8,
+          "cloroPct": 99.8,
+          "latencyS": 20.1,
+          "cloroLatencyS": 18.2
+        },
+        {
+          "pct": 75.7,
+          "cloroPct": 97.4,
+          "latencyS": 17.3,
+          "cloroLatencyS": 22.7
+        },
+        {
+          "pct": 86.2,
+          "cloroPct": 97.4,
+          "latencyS": 9.1,
+          "cloroLatencyS": 22.5
+        },
+        {
+          "pct": 86.7,
+          "cloroPct": 98.8,
+          "latencyS": 7.9,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 86.9,
+          "cloroPct": 99.5,
+          "latencyS": 8.4,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 74,
+          "cloroPct": 98.1,
+          "latencyS": 10.7,
+          "cloroLatencyS": 21.2
+        },
+        {
+          "pct": 90.2,
+          "cloroPct": 92.8,
+          "latencyS": 9.6,
+          "cloroLatencyS": 25.7
+        },
+        {
+          "pct": 88.2,
+          "cloroPct": 91.4,
+          "latencyS": 9.3,
+          "cloroLatencyS": 21
+        },
+        {
+          "pct": 92.8,
+          "cloroPct": 99.5,
+          "latencyS": 10.7,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 91.2,
+          "cloroPct": 99.3,
+          "latencyS": 10.2,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 88.5,
+          "cloroPct": 99.8,
+          "latencyS": 9.2,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 91.4,
+          "cloroPct": 99.8,
+          "latencyS": 8.9,
+          "cloroLatencyS": 16.8
+        },
+        {
+          "pct": 87.8,
+          "cloroPct": 99.8,
+          "latencyS": 10.8,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 91.6,
+          "cloroPct": 99.8,
+          "latencyS": 9.5,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 91.4,
+          "cloroPct": 99.8,
+          "latencyS": 8.7,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 91.6,
+          "cloroPct": 99.8,
+          "latencyS": 9.5,
+          "cloroLatencyS": 17.5
+        },
+        {
+          "pct": 92.4,
+          "cloroPct": 99.8,
+          "latencyS": 10.1,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 94.3,
+          "cloroPct": 100,
+          "latencyS": 9.5,
+          "cloroLatencyS": 14.3
+        },
+        {
+          "pct": 91.9,
+          "cloroPct": 100,
+          "latencyS": 8.7,
+          "cloroLatencyS": 14.1
+        },
+        {
+          "pct": 93.8,
+          "cloroPct": 98.3,
+          "latencyS": 10.4,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 91.7,
+          "cloroPct": 99.5,
+          "latencyS": 10.2,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 91.4,
+          "cloroPct": 99.8,
+          "latencyS": 11.7,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 93.8,
+          "cloroPct": 100,
+          "latencyS": 10,
+          "cloroLatencyS": 16.4
+        },
+        {
+          "pct": 95.9,
+          "cloroPct": 100,
+          "latencyS": 14.9,
+          "cloroLatencyS": 14.5
+        },
+        {
+          "pct": 94.3,
+          "cloroPct": 99.5,
+          "latencyS": 8.8,
+          "cloroLatencyS": 15.2
+        },
+        {
+          "pct": 95.7,
+          "cloroPct": 100,
+          "latencyS": 9.2,
+          "cloroLatencyS": 13.9
+        },
+        {
+          "pct": 93.8,
+          "cloroPct": 99.8,
+          "latencyS": 10.2,
+          "cloroLatencyS": 14.4
+        }
+      ]
+    },
+    {
+      "engine": "CHATGPT",
+      "provider": "dataforseo",
+      "attempts": 12597,
+      "successRatePct": 97.5,
+      "cloroAttempts": 12599,
+      "cloroSuccessRatePct": 96.6,
+      "latencyS": 28.7,
+      "cloroLatencyS": 53.3,
+      "daily": [
+        {
+          "pct": 100,
+          "cloroPct": 98.1,
+          "latencyS": 25.1,
+          "cloroLatencyS": 41.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 91.9,
+          "latencyS": 25.1,
+          "cloroLatencyS": 47.1
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 98.8,
+          "latencyS": 27,
+          "cloroLatencyS": 46.7
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 98.1,
+          "latencyS": 28.6,
+          "cloroLatencyS": 54.6
+        },
+        {
+          "pct": 78.5,
+          "cloroPct": 99,
+          "latencyS": 27.1,
+          "cloroLatencyS": 49.9
+        },
+        {
+          "pct": 69.9,
+          "cloroPct": 98.1,
+          "latencyS": 30.7,
+          "cloroLatencyS": 77.3
+        },
+        {
+          "pct": 96.7,
+          "cloroPct": 96.2,
+          "latencyS": 27.8,
+          "cloroLatencyS": 85.3
+        },
+        {
+          "pct": 96.2,
+          "cloroPct": 96.9,
+          "latencyS": 29.3,
+          "cloroLatencyS": 69.6
+        },
+        {
+          "pct": 87.4,
+          "cloroPct": 97.1,
+          "latencyS": 31,
+          "cloroLatencyS": 71.9
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.8,
+          "latencyS": 30,
+          "cloroLatencyS": 62.5
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.1,
+          "latencyS": 30,
+          "cloroLatencyS": 51.2
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 99.5,
+          "latencyS": 30.5,
+          "cloroLatencyS": 48.6
+        },
+        {
+          "pct": 99.3,
+          "cloroPct": 99.3,
+          "latencyS": 34.4,
+          "cloroLatencyS": 44.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 98.6,
+          "latencyS": 28.2,
+          "cloroLatencyS": 40.5
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.8,
+          "latencyS": 27.4,
+          "cloroLatencyS": 43.7
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 99,
+          "latencyS": 32.1,
+          "cloroLatencyS": 45.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.3,
+          "latencyS": 29.4,
+          "cloroLatencyS": 44.5
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 99.3,
+          "latencyS": 28,
+          "cloroLatencyS": 47.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 93.1,
+          "latencyS": 30.9,
+          "cloroLatencyS": 51.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 88.1,
+          "latencyS": 27.6,
+          "cloroLatencyS": 59.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 58.9,
+          "latencyS": 28.6,
+          "cloroLatencyS": 52.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.3,
+          "latencyS": 29.2,
+          "cloroLatencyS": 43.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 29.6,
+          "cloroLatencyS": 44.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 98.1,
+          "latencyS": 29.5,
+          "cloroLatencyS": 50.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 98.1,
+          "latencyS": 31,
+          "cloroLatencyS": 59.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 28.6,
+          "cloroLatencyS": 51.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 98.8,
+          "latencyS": 25.7,
+          "cloroLatencyS": 49.1
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 97.6,
+          "latencyS": 25.1,
+          "cloroLatencyS": 63.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 26,
+          "cloroLatencyS": 52.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 27.5,
+          "cloroLatencyS": 51.5
+        }
+      ]
+    },
+    {
+      "engine": "GEMINI",
+      "provider": "dataforseo",
+      "attempts": 12596,
+      "successRatePct": 95.8,
+      "cloroAttempts": 12596,
+      "cloroSuccessRatePct": 99.5,
+      "latencyS": 26.4,
+      "cloroLatencyS": 42.4,
+      "daily": [
+        {
+          "pct": 100,
+          "cloroPct": 98.8,
+          "latencyS": 21.3,
+          "cloroLatencyS": 46.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 97.6,
+          "latencyS": 22.5,
+          "cloroLatencyS": 50.2
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 23.6,
+          "cloroLatencyS": 48.1
+        },
+        {
+          "pct": 99.3,
+          "cloroPct": 99.5,
+          "latencyS": 24.2,
+          "cloroLatencyS": 53.2
+        },
+        {
+          "pct": 80.9,
+          "cloroPct": 99,
+          "latencyS": 22.5,
+          "cloroLatencyS": 61.4
+        },
+        {
+          "pct": 94,
+          "cloroPct": 99.3,
+          "latencyS": 27.9,
+          "cloroLatencyS": 65.9
+        },
+        {
+          "pct": 95.9,
+          "cloroPct": 100,
+          "latencyS": 19.7,
+          "cloroLatencyS": 59.3
+        },
+        {
+          "pct": 95.9,
+          "cloroPct": 100,
+          "latencyS": 21.2,
+          "cloroLatencyS": 54.2
+        },
+        {
+          "pct": 87.4,
+          "cloroPct": 100,
+          "latencyS": 25.7,
+          "cloroLatencyS": 54.5
+        },
+        {
+          "pct": 95.7,
+          "cloroPct": 99.5,
+          "latencyS": 25,
+          "cloroLatencyS": 58.1
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 25.3,
+          "cloroLatencyS": 48.4
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 28,
+          "cloroLatencyS": 47.4
+        },
+        {
+          "pct": 66.8,
+          "cloroPct": 94,
+          "latencyS": 30,
+          "cloroLatencyS": 55.5
+        },
+        {
+          "pct": 96.9,
+          "cloroPct": 100,
+          "latencyS": 23.7,
+          "cloroLatencyS": 39.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 23.8,
+          "cloroLatencyS": 39.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 26.5,
+          "cloroLatencyS": 42.1
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 28.6,
+          "cloroLatencyS": 44.4
+        },
+        {
+          "pct": 97.4,
+          "cloroPct": 99.8,
+          "latencyS": 30.8,
+          "cloroLatencyS": 31.9
+        },
+        {
+          "pct": 94.7,
+          "cloroPct": 99.8,
+          "latencyS": 31.9,
+          "cloroLatencyS": 35.1
+        },
+        {
+          "pct": 96.2,
+          "cloroPct": 100,
+          "latencyS": 31.3,
+          "cloroLatencyS": 36.1
+        },
+        {
+          "pct": 85.9,
+          "cloroPct": 100,
+          "latencyS": 43.2,
+          "cloroLatencyS": 33
+        },
+        {
+          "pct": 98.8,
+          "cloroPct": 100,
+          "latencyS": 28.7,
+          "cloroLatencyS": 24.8
+        },
+        {
+          "pct": 95.5,
+          "cloroPct": 100,
+          "latencyS": 31.7,
+          "cloroLatencyS": 29.1
+        },
+        {
+          "pct": 95.9,
+          "cloroPct": 100,
+          "latencyS": 29.2,
+          "cloroLatencyS": 23
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 28.8,
+          "cloroLatencyS": 34.9
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.8,
+          "latencyS": 27.7,
+          "cloroLatencyS": 38.3
+        },
+        {
+          "pct": 99.5,
+          "cloroPct": 100,
+          "latencyS": 23.2,
+          "cloroLatencyS": 24.9
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.3,
+          "latencyS": 20.5,
+          "cloroLatencyS": 29.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.5,
+          "latencyS": 23.7,
+          "cloroLatencyS": 30.6
+        },
+        {
+          "pct": 99,
+          "cloroPct": 99.5,
+          "latencyS": 25.7,
+          "cloroLatencyS": 33.7
+        }
+      ]
+    },
+    {
+      "engine": "GOOGLE_KEYWORD",
+      "provider": "dataforseo",
+      "attempts": 3669,
+      "successRatePct": 99.3,
+      "cloroAttempts": 3669,
+      "cloroSuccessRatePct": 99.2,
+      "latencyS": 6.4,
+      "cloroLatencyS": 7.3,
+      "daily": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 4.7,
+          "cloroLatencyS": 5.6
+        },
+        {
+          "pct": 96,
+          "cloroPct": 100,
+          "latencyS": 5,
+          "cloroLatencyS": 6.2
+        },
+        {
+          "pct": 87,
+          "cloroPct": 100,
+          "latencyS": 7.1,
+          "cloroLatencyS": 6.6
+        },
+        {
+          "pct": 99.7,
+          "cloroPct": 100,
+          "latencyS": 5.6,
+          "cloroLatencyS": 7.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.8,
+          "cloroLatencyS": 6.8
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 100,
+          "latencyS": 6.9,
+          "cloroLatencyS": 7.1
+        },
+        {
+          "pct": 99.4,
+          "cloroPct": 100,
+          "latencyS": 5.7,
+          "cloroLatencyS": 7.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.2,
+          "cloroLatencyS": 6.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 5.5,
+          "cloroLatencyS": 6.3
+        },
+        {
+          "pct": 99,
+          "cloroPct": 100,
+          "latencyS": 10.2,
+          "cloroLatencyS": 6.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.6,
+          "cloroLatencyS": 6.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.2,
+          "cloroLatencyS": 7.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.4,
+          "cloroLatencyS": 9.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.9,
+          "cloroLatencyS": 8.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.8,
+          "cloroLatencyS": 5.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 5.5,
+          "cloroLatencyS": 4.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 6.9,
+          "cloroLatencyS": 5.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.2,
+          "cloroLatencyS": 5.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.8,
+          "cloroLatencyS": 8.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 7.6,
+          "cloroLatencyS": 9.1
+        },
+        {
+          "pct": 99,
+          "cloroPct": 75,
+          "latencyS": 13.2,
+          "cloroLatencyS": 16
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 7.6,
+          "cloroLatencyS": 10
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 7,
+          "cloroLatencyS": 7.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 8.2,
+          "cloroLatencyS": 8.2
+        }
+      ]
+    },
+    {
+      "engine": "AIMODE",
+      "provider": "serpapi",
+      "attempts": 12591,
+      "successRatePct": 100,
+      "cloroAttempts": 12592,
+      "cloroSuccessRatePct": 98.8,
+      "latencyS": 6.6,
+      "cloroLatencyS": 17.6,
+      "daily": [
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 7.1,
+          "cloroLatencyS": 16.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 95.9,
+          "latencyS": 6.5,
+          "cloroLatencyS": 16.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 7.2,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 7.4,
+          "cloroLatencyS": 18.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 97.4,
+          "latencyS": 6.8,
+          "cloroLatencyS": 22.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 97.4,
+          "latencyS": 6.1,
+          "cloroLatencyS": 22.5
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 98.8,
+          "latencyS": 5.6,
+          "cloroLatencyS": 18.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.5,
+          "latencyS": 6,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 98.1,
+          "latencyS": 6.1,
+          "cloroLatencyS": 21.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 92.8,
+          "latencyS": 6.3,
+          "cloroLatencyS": 25.7
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 91.4,
+          "latencyS": 6.8,
+          "cloroLatencyS": 21
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.5,
+          "latencyS": 6.7,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.3,
+          "latencyS": 7.3,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 6.4,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 6.6,
+          "cloroLatencyS": 16.8
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.8,
+          "latencyS": 6.4,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 6.3,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 6.4,
+          "cloroLatencyS": 17.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 7.3,
+          "cloroLatencyS": 17.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 6.8,
+          "cloroLatencyS": 19.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.9,
+          "cloroLatencyS": 14.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.3,
+          "cloroLatencyS": 14.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 98.3,
+          "latencyS": 6.6,
+          "cloroLatencyS": 15.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.5,
+          "latencyS": 6.9,
+          "cloroLatencyS": 17.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 7,
+          "cloroLatencyS": 18
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.7,
+          "cloroLatencyS": 16.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 7,
+          "cloroLatencyS": 14.5
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.5,
+          "latencyS": 6.4,
+          "cloroLatencyS": 15.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.6,
+          "cloroLatencyS": 13.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 6.8,
+          "cloroLatencyS": 14.4
+        }
+      ]
+    },
+    {
+      "engine": "GOOGLE_KEYWORD",
+      "provider": "serpapi",
+      "attempts": 3669,
+      "successRatePct": 99.9,
+      "cloroAttempts": 3669,
+      "cloroSuccessRatePct": 99.2,
+      "latencyS": 4.5,
+      "cloroLatencyS": 7.3,
+      "daily": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.4,
+          "cloroLatencyS": 5.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.9,
+          "cloroLatencyS": 6.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6,
+          "cloroLatencyS": 6.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.6,
+          "cloroLatencyS": 7.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.8,
+          "cloroLatencyS": 6.8
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.6,
+          "cloroLatencyS": 7.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6.2,
+          "cloroLatencyS": 7.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.2,
+          "cloroLatencyS": 6.2
+        },
+        {
+          "pct": 98,
+          "cloroPct": 99,
+          "latencyS": 4.9,
+          "cloroLatencyS": 6.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 4,
+          "cloroLatencyS": 6.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 5.4,
+          "cloroLatencyS": 6.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 4.7,
+          "cloroLatencyS": 7.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 3,
+          "cloroLatencyS": 9.2
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 1.8,
+          "cloroLatencyS": 8.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 1.8,
+          "cloroLatencyS": 5.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 2,
+          "cloroLatencyS": 4.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 1.6,
+          "cloroLatencyS": 5.4
+        },
+        {
+          "pct": 98,
+          "cloroPct": 100,
+          "latencyS": 2.1,
+          "cloroLatencyS": 5.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 2.1,
+          "cloroLatencyS": 8.7
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 2.4,
+          "cloroLatencyS": 9.1
+        },
+        {
+          "pct": 100,
+          "cloroPct": 75,
+          "latencyS": 2.1,
+          "cloroLatencyS": 16
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99,
+          "latencyS": 2.4,
+          "cloroLatencyS": 10
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 2.7,
+          "cloroLatencyS": 7.6
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 2.3,
+          "cloroLatencyS": 8.2
+        }
+      ]
+    }
+  ],
+  "serpFeatures": [
+    {
+      "metric": "has_aioverview",
+      "provider": "cloro",
+      "pct": 79.4,
+      "n": 12698
+    },
+    {
+      "metric": "has_aioverview",
+      "provider": "serpapi",
+      "pct": 87.7,
+      "n": 12695
+    },
+    {
+      "metric": "has_aioverview_ads",
+      "provider": "cloro",
+      "pct": 0,
+      "n": 12698
+    },
+    {
+      "metric": "has_aioverview_sources",
+      "provider": "cloro",
+      "pct": 69.9,
+      "n": 12698
+    },
+    {
+      "metric": "has_aioverview_sources",
+      "provider": "serpapi",
+      "pct": 75,
+      "n": 12695
+    },
+    {
+      "metric": "has_aioverview_videos",
+      "provider": "cloro",
+      "pct": 24.6,
+      "n": 12698
+    },
+    {
+      "metric": "has_aioverview_videos",
+      "provider": "serpapi",
+      "pct": 0,
+      "n": 12695
+    },
+    {
+      "metric": "has_citation_pills",
+      "provider": "cloro",
+      "pct": 69.1,
+      "n": 12698
+    },
+    {
+      "metric": "has_citation_pills",
+      "provider": "serpapi",
+      "pct": 70.2,
+      "n": 12695
+    },
+    {
+      "metric": "has_knowledge_graph",
+      "provider": "cloro",
+      "pct": 2.6,
+      "n": 12698
+    },
+    {
+      "metric": "has_knowledge_graph",
+      "provider": "serpapi",
+      "pct": 10.7,
+      "n": 12695
+    },
+    {
+      "metric": "has_local_results",
+      "provider": "cloro",
+      "pct": 8.5,
+      "n": 12698
+    },
+    {
+      "metric": "has_local_results",
+      "provider": "serpapi",
+      "pct": 8.7,
+      "n": 12695
+    },
+    {
+      "metric": "has_organic_results",
+      "provider": "cloro",
+      "pct": 97.3,
+      "n": 12698
+    },
+    {
+      "metric": "has_organic_results",
+      "provider": "serpapi",
+      "pct": 93.8,
+      "n": 12695
+    },
+    {
+      "metric": "has_people_also_ask",
+      "provider": "cloro",
+      "pct": 85.3,
+      "n": 12698
+    },
+    {
+      "metric": "has_people_also_ask",
+      "provider": "serpapi",
+      "pct": 80,
+      "n": 12695
+    },
+    {
+      "metric": "has_people_are_saying",
+      "provider": "cloro",
+      "pct": 0.4,
+      "n": 12698
+    },
+    {
+      "metric": "has_people_are_saying",
+      "provider": "serpapi",
+      "pct": 0.4,
+      "n": 12695
+    },
+    {
+      "metric": "has_related_links",
+      "provider": "cloro",
+      "pct": 12,
+      "n": 12698
+    },
+    {
+      "metric": "has_related_searches",
+      "provider": "cloro",
+      "pct": 63.2,
+      "n": 12698
+    },
+    {
+      "metric": "has_related_searches",
+      "provider": "serpapi",
+      "pct": 55.7,
+      "n": 12695
+    },
+    {
+      "metric": "has_shopping_cards",
+      "provider": "cloro",
+      "pct": 5.4,
+      "n": 12698
+    },
+    {
+      "metric": "has_shopping_cards",
+      "provider": "serpapi",
+      "pct": 5.3,
+      "n": 12695
+    },
+    {
+      "metric": "has_sponsored_ads",
+      "provider": "cloro",
+      "pct": 2.2,
+      "n": 12698
+    },
+    {
+      "metric": "has_sponsored_ads",
+      "provider": "serpapi",
+      "pct": 2.3,
+      "n": 12695
+    },
+    {
+      "metric": "success_rate",
+      "provider": "cloro",
+      "pct": 97.5,
+      "n": 12698
+    },
+    {
+      "metric": "success_rate",
+      "provider": "serpapi",
+      "pct": 93.8,
+      "n": 12695
+    }
+  ]
+}

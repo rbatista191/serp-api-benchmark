@@ -1,0 +1,28 @@
+name: Render README
+
+# Rebuild the README tables whenever the data file changes.
+on:
+  push:
+    branches: [main]
+    paths: [data/benchmark.json, scripts/render.py]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python3 scripts/render.py
+      - name: Commit the README if it changed
+        run: |
+          git diff --quiet README.md && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Render README from data/benchmark.json"
+          git push
