@@ -26,8 +26,8 @@ AI_ENGINES = [
     ("AIMODE", "Google AI Mode"),
     ("BING_AIMODE", "Bing AI Mode"),
 ]
-# data/benchmark.json still holds COPILOT and PERPLEXITY pairs. cloro stopped
-# serving both engines on 2026-11-05, so the tables leave them out.
+# COPILOT and PERPLEXITY are not listed: cloro stopped serving both engines on
+# 2026-11-05, and the data stops carrying them from 2026-11-10.
 SEARCH = ("GOOGLE_KEYWORD", "Google Search")
 FEATURES = [
     ("success_rate", "Returned a result"),

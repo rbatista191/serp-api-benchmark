@@ -106,5 +106,3 @@ Yes. The data and the script are MIT licensed. [`scripts/render.py`](scripts/ren
 - `days`: the dates in the window, oldest first.
 - `pairs`: one row per API and engine, with `attempts`, `successRatePct` and `latencyS`, cloro's figures on the same prompts (`cloroAttempts`, `cloroSuccessRatePct`, `cloroLatencyS`), and a `daily` series.
 - `serpFeatures`: the share of Google Search responses that contain each block, for cloro and SerpApi.
-
-The file also holds pairs for Microsoft Copilot and Perplexity. The tables leave them out, because cloro no longer serves those two engines.
