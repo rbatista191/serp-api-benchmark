@@ -1,6 +1,6 @@
 # SERP API and LLM Scraping API Benchmark
 
-A daily benchmark of SERP APIs and LLM scraping APIs: the success rate and response time of [cloro](https://cloro.dev/), Bright Data, Oxylabs, DataForSEO and SerpApi on the same prompts, over the last 30 days. It covers ChatGPT, Gemini, Google AI Mode and Google Search. The tables refresh every day from [`data/benchmark.json`](data/benchmark.json).
+A daily benchmark of SERP APIs and LLM scraping APIs: the success rate and response time of [cloro](https://cloro.dev/), Bright Data, Oxylabs, DataForSEO, SerpApi and SearchApi on the same prompts, over the last 30 days. It covers ChatGPT, Gemini, Google AI Mode, Bing AI Mode and Google Search. Bing AI Mode and SearchApi joined in November 2026, so their cells fill in once a pair has 1,000 attempts in the window. The tables refresh every day from [`data/benchmark.json`](data/benchmark.json).
 
 <!-- BEGIN window -->
 Window: 2026-10-10 to 2026-11-08 (30 days). Generated 2026-11-09.
@@ -12,7 +12,7 @@ Window: 2026-10-10 to 2026-11-08 (30 days). Generated 2026-11-09.
 - **ChatGPT:** highest success rate DataForSEO (99.1%), fastest DataForSEO (28.7 s).
 - **Gemini:** highest success rate cloro (99.7%), fastest DataForSEO (26.5 s).
 - **Google AI Mode:** highest success rate SerpApi (100.0%), fastest SerpApi (6.6 s).
-- **Google Search:** highest success rate cloro (100.0%), fastest SerpApi (4.2 s).
+- **Google Search:** highest success rate SearchApi (100.0%), fastest SerpApi (4.2 s).
 <!-- END leaders -->
 
 ## What success rate should you expect from an LLM scraping API?
@@ -20,11 +20,12 @@ Window: 2026-10-10 to 2026-11-08 (30 days). Generated 2026-11-09.
 Share of requests that returned a result, on the same full-sentence prompts for every API. A dash means the API was not measured on that engine.
 
 <!-- BEGIN success -->
-| Engine | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi |
-|---|---|---|---|---|---|
-| ChatGPT | 97.0% | 54.8% | 98.0% | 99.1% | – |
-| Gemini | 99.7% | 97.9% | 97.7% | 96.4% | – |
-| Google AI Mode | 99.1% | 54.3% | 97.2% | 91.8% | 100.0% |
+| Engine | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi | SearchApi |
+|---|---|---|---|---|---|---|
+| ChatGPT | 97.0% | 54.8% | 98.0% | 99.1% | – | – |
+| Gemini | 99.7% | 97.9% | 97.7% | 96.4% | – | – |
+| Google AI Mode | 99.1% | 54.3% | 97.2% | 91.8% | 100.0% | – |
+| Bing AI Mode | – | – | – | – | – | – |
 <!-- END success -->
 
 ## How do the APIs compare on latency?
@@ -32,11 +33,12 @@ Share of requests that returned a result, on the same full-sentence prompts for 
 Mean seconds from request to result, over the successful calls. "n/a" means the API succeeded on fewer than 7 days of the window, which is too few for a stable mean.
 
 <!-- BEGIN latency -->
-| Engine | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi |
-|---|---|---|---|---|---|
-| ChatGPT | 53.0 s | 137.0 s | 78.4 s | 28.7 s | – |
-| Gemini | 38.6 s | 69.4 s | 40.2 s | 26.5 s | – |
-| Google AI Mode | 16.7 s | 76.6 s | 28.1 s | 9.8 s | 6.6 s |
+| Engine | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi | SearchApi |
+|---|---|---|---|---|---|---|
+| ChatGPT | 53.0 s | 137.0 s | 78.4 s | 28.7 s | – | – |
+| Gemini | 38.6 s | 69.4 s | 40.2 s | 26.5 s | – | – |
+| Google AI Mode | 16.7 s | 76.6 s | 28.1 s | 9.8 s | 6.6 s | – |
+| Bing AI Mode | – | – | – | – | – | – |
 <!-- END latency -->
 
 ## What success rate should you expect from a Google scraping API?
@@ -44,10 +46,10 @@ Mean seconds from request to result, over the successful calls. "n/a" means the 
 Short keywords and a plain request, the same keywords for every API.
 
 <!-- BEGIN search -->
-| Google Search | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi |
-|---|---|---|---|---|---|
-| Success rate | 100.0% | – | 93.9% | 99.4% | 99.9% |
-| Mean latency | n/a (1 days) | – | 8.1 s | 6.3 s | 4.2 s |
+| Google Search | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi | SearchApi |
+|---|---|---|---|---|---|---|
+| Success rate | 99.3% | – | 93.9% | 99.4% | 99.9% | 100.0% |
+| Mean latency | 7.0 s | – | 8.1 s | 6.3 s | 4.2 s | n/a (1 days) |
 <!-- END search -->
 
 ## Which SERP API returns the most of the Google results page?

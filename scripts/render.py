@@ -18,11 +18,13 @@ PROVIDERS = [
     ("oxylabs", "Oxylabs"),
     ("dataforseo", "DataForSEO"),
     ("serpapi", "SerpApi"),
+    ("searchapi", "SearchApi"),
 ]
 AI_ENGINES = [
     ("CHATGPT", "ChatGPT"),
     ("GEMINI", "Gemini"),
     ("AIMODE", "Google AI Mode"),
+    ("BING_AIMODE", "Bing AI Mode"),
 ]
 # data/benchmark.json still holds COPILOT and PERPLEXITY pairs. cloro stopped
 # serving both engines on 2026-11-05, so the tables leave them out.
@@ -44,7 +46,12 @@ MIN_LATENCY_DAYS = 7
 
 
 def cells(feed, engine):
-    """Success rate and latency per provider on one engine, or None."""
+    """Success rate and latency per provider on one engine, or None.
+
+    Every pair carries cloro's figures on the same prompts. A provider that
+    joined later has a shorter window, so cloro's cell comes from the pair
+    with the most cloro attempts.
+    """
     out = {}
     for p in feed["pairs"]:
         if p["engine"] != engine:
@@ -54,12 +61,13 @@ def cells(feed, engine):
             1 for d in p["daily"] if d and d.get("cloroLatencyS") is not None
         )
         out[p["provider"]] = (p["successRatePct"], p["latencyS"], days, p["attempts"])
-        out["cloro"] = (
-            p["cloroSuccessRatePct"],
-            p["cloroLatencyS"],
-            cloro_days,
-            p["cloroAttempts"],
-        )
+        if "cloro" not in out or p["cloroAttempts"] > out["cloro"][3]:
+            out["cloro"] = (
+                p["cloroSuccessRatePct"],
+                p["cloroLatencyS"],
+                cloro_days,
+                p["cloroAttempts"],
+            )
     return out
 
 
@@ -110,10 +118,10 @@ def leaders(feed):
         name = dict(PROVIDERS)
         best = max(c, key=lambda p: c[p][0])
         timed = {p: v for p, v in c.items() if v[1] is not None and v[2] >= MIN_LATENCY_DAYS}
-        line = f"- **{label}:** highest success rate {name[best]} ({c[best][0]:.1f}%)"
+        line = f"- **{label}:** highest success rate {name.get(best, best)} ({c[best][0]:.1f}%)"
         if len(timed) > 1:
             fast = min(timed, key=lambda p: timed[p][1])
-            line += f", fastest {name[fast]} ({timed[fast][1]:.1f} s)"
+            line += f", fastest {name.get(fast, fast)} ({timed[fast][1]:.1f} s)"
         if all(v[0] < 50 for v in c.values()):
             line += ". Every API failed most requests in this window"
         lines.append(line + ".")
