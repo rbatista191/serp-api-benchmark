@@ -3,18 +3,18 @@
 A daily benchmark of SERP APIs and LLM scraping APIs: the success rate and response time of [cloro](https://cloro.dev/), Bright Data, Oxylabs, DataForSEO and SerpApi on the same prompts, over the last 30 days. It covers ChatGPT, Gemini, Google AI Mode, Microsoft Copilot, Perplexity and Google Search. The tables refresh every day from [`data/benchmark.json`](data/benchmark.json).
 
 <!-- BEGIN window -->
-Window: 2026-10-09 to 2026-11-07 (30 days). Generated 2026-11-08.
+Window: 2026-10-10 to 2026-11-08 (30 days). Generated 2026-11-09.
 <!-- END window -->
 
 ## Which API is the most reliable on each engine?
 
 <!-- BEGIN leaders -->
-- **ChatGPT:** highest success rate DataForSEO (98.1%), fastest DataForSEO (28.9 s).
-- **Gemini:** highest success rate cloro (99.7%), fastest DataForSEO (26.7 s).
-- **Google AI Mode:** highest success rate SerpApi (100.0%), fastest SerpApi (6.5 s).
-- **Microsoft Copilot:** highest success rate cloro (84.9%).
-- **Perplexity:** highest success rate Oxylabs (8.7%), fastest cloro (63.0 s). Every API failed most requests in this window.
-- **Google Search:** highest success rate SerpApi (99.9%), fastest SerpApi (4.3 s).
+- **ChatGPT:** highest success rate DataForSEO (99.1%), fastest DataForSEO (28.7 s).
+- **Gemini:** highest success rate cloro (99.7%), fastest DataForSEO (26.5 s).
+- **Google AI Mode:** highest success rate SerpApi (100.0%), fastest SerpApi (6.6 s).
+- **Microsoft Copilot:** highest success rate cloro (83.3%).
+- **Perplexity:** highest success rate Oxylabs (8.9%), fastest cloro (59.9 s). Every API failed most requests in this window.
+- **Google Search:** highest success rate cloro (100.0%), fastest SerpApi (4.2 s).
 <!-- END leaders -->
 
 ## What success rate should you expect from an LLM scraping API?
@@ -24,11 +24,11 @@ Share of requests that returned a result, on the same full-sentence prompts for 
 <!-- BEGIN success -->
 | Engine | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi |
 |---|---|---|---|---|---|
-| ChatGPT | 97.0% | 52.0% | 97.6% | 98.1% | – |
-| Gemini | 99.7% | 97.9% | 97.7% | 96.2% | – |
-| Google AI Mode | 99.0% | 54.1% | 97.1% | 91.5% | 100.0% |
-| Microsoft Copilot | 84.9% | 0.3% | – | – | – |
-| Perplexity | 0.6% | 1.1% | 8.7% | – | – |
+| ChatGPT | 97.0% | 54.8% | 98.0% | 99.1% | – |
+| Gemini | 99.7% | 97.9% | 97.7% | 96.4% | – |
+| Google AI Mode | 99.1% | 54.3% | 97.2% | 91.8% | 100.0% |
+| Microsoft Copilot | 83.3% | 0.3% | – | – | – |
+| Perplexity | 0.6% | 1.0% | 8.9% | – | – |
 <!-- END success -->
 
 ## How do the APIs compare on latency?
@@ -38,11 +38,11 @@ Mean seconds from request to result, over the successful calls. "n/a" means the 
 <!-- BEGIN latency -->
 | Engine | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi |
 |---|---|---|---|---|---|
-| ChatGPT | 53.9 s | 138.0 s | 77.0 s | 28.9 s | – |
-| Gemini | 40.1 s | 68.9 s | 40.7 s | 26.7 s | – |
-| Google AI Mode | 17.0 s | 78.9 s | 28.2 s | 9.8 s | 6.5 s |
-| Microsoft Copilot | 49.0 s | n/a (1 days) | – | – | – |
-| Perplexity | 63.0 s | 239.7 s | 78.5 s | – | – |
+| ChatGPT | 53.0 s | 137.0 s | 78.4 s | 28.7 s | – |
+| Gemini | 38.6 s | 69.4 s | 40.2 s | 26.5 s | – |
+| Google AI Mode | 16.7 s | 76.6 s | 28.1 s | 9.8 s | 6.6 s |
+| Microsoft Copilot | 48.7 s | n/a (1 days) | – | – | – |
+| Perplexity | 59.9 s | 233.1 s | 76.5 s | – | – |
 <!-- END latency -->
 
 ## What success rate should you expect from a Google scraping API?
@@ -52,8 +52,8 @@ Short keywords and a plain request, the same keywords for every API.
 <!-- BEGIN search -->
 | Google Search | cloro | Bright Data | Oxylabs | DataForSEO | SerpApi |
 |---|---|---|---|---|---|
-| Success rate | 99.3% | – | 94.5% | 99.4% | 99.9% |
-| Mean latency | 7.1 s | – | 7.5 s | 6.4 s | 4.3 s |
+| Success rate | 100.0% | – | 93.9% | 99.4% | 99.9% |
+| Mean latency | n/a (1 days) | – | 8.1 s | 6.3 s | 4.2 s |
 <!-- END search -->
 
 ## Which SERP API returns the most of the Google results page?
@@ -63,18 +63,18 @@ Share of full-sentence questions sent to Google Search on which each API returne
 <!-- BEGIN features -->
 | Block | cloro | SerpApi |
 |---|---|---|
-| Returned a result | 97.8% | 96.0% |
-| Organic results | 97.8% | 96.0% |
-| People Also Ask | 85.4% | 80.7% |
-| AI Overview | 80.4% | 90.6% |
-| AI Overview sources | 71.4% | 77.7% |
-| AI Overview citation pills | 70.5% | 72.9% |
-| Related searches | 69.0% | 56.5% |
+| Returned a result | 97.9% | 96.0% |
+| Organic results | 97.9% | 96.0% |
+| People Also Ask | 85.5% | 80.5% |
+| AI Overview | 80.4% | 90.7% |
+| AI Overview sources | 71.4% | 77.9% |
+| AI Overview citation pills | 70.6% | 73.1% |
+| Related searches | 69.7% | 56.2% |
 | Local results | 8.3% | 9.1% |
 | Shopping cards | 5.6% | 5.3% |
-| Knowledge graph | 2.6% | 10.9% |
+| Knowledge graph | 2.7% | 10.9% |
 
-Share of 12,681 cloro and 12,680 SerpApi responses that contain each block.
+Share of 12,696 cloro and 12,695 SerpApi responses that contain each block.
 <!-- END features -->
 
 ## How the benchmark works
