@@ -23,9 +23,9 @@ AI_ENGINES = [
     ("CHATGPT", "ChatGPT"),
     ("GEMINI", "Gemini"),
     ("AIMODE", "Google AI Mode"),
-    ("COPILOT", "Microsoft Copilot"),
-    ("PERPLEXITY", "Perplexity"),
 ]
+# data/benchmark.json still holds COPILOT and PERPLEXITY pairs. cloro stopped
+# serving both engines on 2026-11-05, so the tables leave them out.
 SEARCH = ("GOOGLE_KEYWORD", "Google Search")
 FEATURES = [
     ("success_rate", "Returned a result"),

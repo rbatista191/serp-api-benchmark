@@ -1,6 +1,6 @@
 # SERP API and LLM Scraping API Benchmark
 
-A daily benchmark of SERP APIs and LLM scraping APIs: the success rate and response time of [cloro](https://cloro.dev/), Bright Data, Oxylabs, DataForSEO and SerpApi on the same prompts, over the last 30 days. It covers ChatGPT, Gemini, Google AI Mode, Microsoft Copilot, Perplexity and Google Search. The tables refresh every day from [`data/benchmark.json`](data/benchmark.json).
+A daily benchmark of SERP APIs and LLM scraping APIs: the success rate and response time of [cloro](https://cloro.dev/), Bright Data, Oxylabs, DataForSEO and SerpApi on the same prompts, over the last 30 days. It covers ChatGPT, Gemini, Google AI Mode and Google Search. The tables refresh every day from [`data/benchmark.json`](data/benchmark.json).
 
 <!-- BEGIN window -->
 Window: 2026-10-10 to 2026-11-08 (30 days). Generated 2026-11-09.
@@ -12,8 +12,6 @@ Window: 2026-10-10 to 2026-11-08 (30 days). Generated 2026-11-09.
 - **ChatGPT:** highest success rate DataForSEO (99.1%), fastest DataForSEO (28.7 s).
 - **Gemini:** highest success rate cloro (99.7%), fastest DataForSEO (26.5 s).
 - **Google AI Mode:** highest success rate SerpApi (100.0%), fastest SerpApi (6.6 s).
-- **Microsoft Copilot:** highest success rate cloro (83.3%).
-- **Perplexity:** highest success rate Oxylabs (8.9%), fastest cloro (59.9 s). Every API failed most requests in this window.
 - **Google Search:** highest success rate cloro (100.0%), fastest SerpApi (4.2 s).
 <!-- END leaders -->
 
@@ -27,8 +25,6 @@ Share of requests that returned a result, on the same full-sentence prompts for 
 | ChatGPT | 97.0% | 54.8% | 98.0% | 99.1% | – |
 | Gemini | 99.7% | 97.9% | 97.7% | 96.4% | – |
 | Google AI Mode | 99.1% | 54.3% | 97.2% | 91.8% | 100.0% |
-| Microsoft Copilot | 83.3% | 0.3% | – | – | – |
-| Perplexity | 0.6% | 1.0% | 8.9% | – | – |
 <!-- END success -->
 
 ## How do the APIs compare on latency?
@@ -41,8 +37,6 @@ Mean seconds from request to result, over the successful calls. "n/a" means the 
 | ChatGPT | 53.0 s | 137.0 s | 78.4 s | 28.7 s | – |
 | Gemini | 38.6 s | 69.4 s | 40.2 s | 26.5 s | – |
 | Google AI Mode | 16.7 s | 76.6 s | 28.1 s | 9.8 s | 6.6 s |
-| Microsoft Copilot | 48.7 s | n/a (1 days) | – | – | – |
-| Perplexity | 59.9 s | 233.1 s | 76.5 s | – | – |
 <!-- END latency -->
 
 ## What success rate should you expect from a Google scraping API?
@@ -110,3 +104,5 @@ Yes. The data and the script are MIT licensed. [`scripts/render.py`](scripts/ren
 - `days`: the dates in the window, oldest first.
 - `pairs`: one row per API and engine, with `attempts`, `successRatePct` and `latencyS`, cloro's figures on the same prompts (`cloroAttempts`, `cloroSuccessRatePct`, `cloroLatencyS`), and a `daily` series.
 - `serpFeatures`: the share of Google Search responses that contain each block, for cloro and SerpApi.
+
+The file also holds pairs for Microsoft Copilot and Perplexity. The tables leave them out, because cloro no longer serves those two engines.
