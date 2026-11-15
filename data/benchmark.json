@@ -1,7 +1,6 @@
 {
-  "generatedAt": "2026-11-14T05:30:16.042Z",
+  "generatedAt": "2026-11-15T05:30:14.350Z",
   "days": [
-    "2026-10-15",
     "2026-10-16",
     "2026-10-17",
     "2026-10-18",
@@ -30,25 +29,20 @@
     "2026-11-10",
     "2026-11-11",
     "2026-11-12",
-    "2026-11-13"
+    "2026-11-13",
+    "2026-11-14"
   ],
   "pairs": [
     {
       "engine": "AIMODE",
       "provider": "brightdata",
       "attempts": 12559,
-      "successRatePct": 67.1,
+      "successRatePct": 69.2,
       "cloroAttempts": 12559,
       "cloroSuccessRatePct": 99.7,
-      "latencyS": 76.4,
+      "latencyS": 76.2,
       "cloroLatencyS": 15.5,
       "daily": [
-        {
-          "pct": 30.8,
-          "cloroPct": 99.5,
-          "latencyS": 78.1,
-          "cloroLatencyS": 17.1
-        },
         {
           "pct": 78.8,
           "cloroPct": 99.3,
@@ -222,6 +216,12 @@
           "cloroPct": 99.8,
           "latencyS": 84.1,
           "cloroLatencyS": 12.4
+        },
+        {
+          "pct": 94.3,
+          "cloroPct": 100,
+          "latencyS": 71.1,
+          "cloroLatencyS": 18.1
         }
       ]
     },
@@ -229,18 +229,12 @@
       "engine": "CHATGPT",
       "provider": "brightdata",
       "attempts": 12548,
-      "successRatePct": 67.5,
+      "successRatePct": 69.2,
       "cloroAttempts": 12552,
       "cloroSuccessRatePct": 97.2,
-      "latencyS": 130,
-      "cloroLatencyS": 49.7,
+      "latencyS": 128.4,
+      "cloroLatencyS": 49.8,
       "daily": [
-        {
-          "pct": 34.1,
-          "cloroPct": 99.5,
-          "latencyS": 146.5,
-          "cloroLatencyS": 48.6
-        },
         {
           "pct": 53.6,
           "cloroPct": 99.3,
@@ -414,6 +408,12 @@
           "cloroPct": 100,
           "latencyS": 97.3,
           "cloroLatencyS": 39.9
+        },
+        {
+          "pct": 87.1,
+          "cloroPct": 100,
+          "latencyS": 98.8,
+          "cloroLatencyS": 52.1
         }
       ]
     },
@@ -424,15 +424,9 @@
       "successRatePct": 97.7,
       "cloroAttempts": 12566,
       "cloroSuccessRatePct": 99.6,
-      "latencyS": 71.8,
-      "cloroLatencyS": 34.5,
+      "latencyS": 72.1,
+      "cloroLatencyS": 34.3,
       "daily": [
-        {
-          "pct": 98.3,
-          "cloroPct": 100,
-          "latencyS": 57.6,
-          "cloroLatencyS": 47.4
-        },
         {
           "pct": 96.7,
           "cloroPct": 94,
@@ -606,6 +600,12 @@
           "cloroPct": 100,
           "latencyS": 71.8,
           "cloroLatencyS": 29.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 65.2,
+          "cloroLatencyS": 42.7
         }
       ]
     },
@@ -613,18 +613,12 @@
       "engine": "AIMODE",
       "provider": "oxylabs",
       "attempts": 12571,
-      "successRatePct": 97.9,
+      "successRatePct": 98,
       "cloroAttempts": 12571,
       "cloroSuccessRatePct": 99.7,
-      "latencyS": 29.6,
+      "latencyS": 29.3,
       "cloroLatencyS": 15.5,
       "daily": [
-        {
-          "pct": 95.2,
-          "cloroPct": 99.5,
-          "latencyS": 32.7,
-          "cloroLatencyS": 17.1
-        },
         {
           "pct": 98.6,
           "cloroPct": 99.3,
@@ -798,6 +792,12 @@
           "cloroPct": 99.8,
           "latencyS": 60.3,
           "cloroLatencyS": 12.4
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 100,
+          "latencyS": 24,
+          "cloroLatencyS": 18.1
         }
       ]
     },
@@ -805,18 +805,12 @@
       "engine": "CHATGPT",
       "provider": "oxylabs",
       "attempts": 12569,
-      "successRatePct": 98.8,
+      "successRatePct": 98.9,
       "cloroAttempts": 12571,
       "cloroSuccessRatePct": 97.2,
-      "latencyS": 85,
-      "cloroLatencyS": 49.7,
+      "latencyS": 86,
+      "cloroLatencyS": 49.8,
       "daily": [
-        {
-          "pct": 95.9,
-          "cloroPct": 99.5,
-          "latencyS": 64.7,
-          "cloroLatencyS": 48.6
-        },
         {
           "pct": 98.6,
           "cloroPct": 99.3,
@@ -990,6 +984,12 @@
           "cloroPct": 100,
           "latencyS": 99.2,
           "cloroLatencyS": 39.9
+        },
+        {
+          "pct": 99,
+          "cloroPct": 100,
+          "latencyS": 94.2,
+          "cloroLatencyS": 52.1
         }
       ]
     },
@@ -997,18 +997,12 @@
       "engine": "GEMINI",
       "provider": "oxylabs",
       "attempts": 12572,
-      "successRatePct": 98.3,
+      "successRatePct": 98.4,
       "cloroAttempts": 12572,
       "cloroSuccessRatePct": 99.6,
-      "latencyS": 37.2,
-      "cloroLatencyS": 34.5,
+      "latencyS": 36.5,
+      "cloroLatencyS": 34.3,
       "daily": [
-        {
-          "pct": 97.9,
-          "cloroPct": 100,
-          "latencyS": 51.5,
-          "cloroLatencyS": 47.4
-        },
         {
           "pct": 90.5,
           "cloroPct": 94,
@@ -1182,25 +1176,25 @@
           "cloroPct": 100,
           "latencyS": 29.3,
           "cloroLatencyS": 29.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 30.9,
+          "cloroLatencyS": 42.7
         }
       ]
     },
     {
       "engine": "GOOGLE_KEYWORD",
       "provider": "oxylabs",
-      "attempts": 3748,
-      "successRatePct": 92.4,
-      "cloroAttempts": 3748,
-      "cloroSuccessRatePct": 99.2,
-      "latencyS": 10.8,
-      "cloroLatencyS": 6.6,
+      "attempts": 3374,
+      "successRatePct": 92.1,
+      "cloroAttempts": 3374,
+      "cloroSuccessRatePct": 99.1,
+      "latencyS": 12.4,
+      "cloroLatencyS": 6.7,
       "daily": [
-        {
-          "pct": 94.1,
-          "cloroPct": 100,
-          "latencyS": 6.7,
-          "cloroLatencyS": 7.1
-        },
         {
           "pct": 98.5,
           "cloroPct": 100,
@@ -1374,6 +1368,12 @@
           "cloroPct": 100,
           "latencyS": 22.3,
           "cloroLatencyS": 3.3
+        },
+        {
+          "pct": 91,
+          "cloroPct": 100,
+          "latencyS": 46.2,
+          "cloroLatencyS": 11.3
         }
       ]
     },
@@ -1381,18 +1381,12 @@
       "engine": "AIMODE",
       "provider": "dataforseo",
       "attempts": 12571,
-      "successRatePct": 94.1,
+      "successRatePct": 94.3,
       "cloroAttempts": 12571,
       "cloroSuccessRatePct": 99.7,
       "latencyS": 10,
       "cloroLatencyS": 15.5,
       "daily": [
-        {
-          "pct": 92.8,
-          "cloroPct": 99.5,
-          "latencyS": 10.7,
-          "cloroLatencyS": 17.1
-        },
         {
           "pct": 91.2,
           "cloroPct": 99.3,
@@ -1566,6 +1560,12 @@
           "cloroPct": 99.8,
           "latencyS": 10.5,
           "cloroLatencyS": 12.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 10.1,
+          "cloroLatencyS": 18.1
         }
       ]
     },
@@ -1576,15 +1576,9 @@
       "successRatePct": 99.8,
       "cloroAttempts": 12573,
       "cloroSuccessRatePct": 97.2,
-      "latencyS": 28.3,
-      "cloroLatencyS": 49.7,
+      "latencyS": 28,
+      "cloroLatencyS": 49.8,
       "daily": [
-        {
-          "pct": 99.5,
-          "cloroPct": 99.5,
-          "latencyS": 30.5,
-          "cloroLatencyS": 48.6
-        },
         {
           "pct": 99.3,
           "cloroPct": 99.3,
@@ -1758,6 +1752,12 @@
           "cloroPct": 100,
           "latencyS": 26.2,
           "cloroLatencyS": 39.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 23.4,
+          "cloroLatencyS": 52.1
         }
       ]
     },
@@ -1769,14 +1769,8 @@
       "cloroAttempts": 12572,
       "cloroSuccessRatePct": 99.6,
       "latencyS": 27,
-      "cloroLatencyS": 34.5,
+      "cloroLatencyS": 34.3,
       "daily": [
-        {
-          "pct": 99.5,
-          "cloroPct": 100,
-          "latencyS": 28,
-          "cloroLatencyS": 47.4
-        },
         {
           "pct": 66.8,
           "cloroPct": 94,
@@ -1950,25 +1944,25 @@
           "cloroPct": 100,
           "latencyS": 27.4,
           "cloroLatencyS": 29.9
+        },
+        {
+          "pct": 99.8,
+          "cloroPct": 99.8,
+          "latencyS": 26.5,
+          "cloroLatencyS": 42.7
         }
       ]
     },
     {
       "engine": "GOOGLE_KEYWORD",
       "provider": "dataforseo",
-      "attempts": 3748,
+      "attempts": 3374,
       "successRatePct": 99.8,
-      "cloroAttempts": 3748,
-      "cloroSuccessRatePct": 99.2,
-      "latencyS": 6.4,
-      "cloroLatencyS": 6.6,
+      "cloroAttempts": 3374,
+      "cloroSuccessRatePct": 99.1,
+      "latencyS": 6.3,
+      "cloroLatencyS": 6.7,
       "daily": [
-        {
-          "pct": 99.8,
-          "cloroPct": 100,
-          "latencyS": 6.9,
-          "cloroLatencyS": 7.1
-        },
         {
           "pct": 99.4,
           "cloroPct": 100,
@@ -2142,6 +2136,12 @@
           "cloroPct": 100,
           "latencyS": 6,
           "cloroLatencyS": 3.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 6,
+          "cloroLatencyS": 11.3
         }
       ]
     },
@@ -2155,12 +2155,6 @@
       "latencyS": 6.7,
       "cloroLatencyS": 15.5,
       "daily": [
-        {
-          "pct": 100,
-          "cloroPct": 99.5,
-          "latencyS": 6.7,
-          "cloroLatencyS": 17.1
-        },
         {
           "pct": 100,
           "cloroPct": 99.3,
@@ -2334,25 +2328,25 @@
           "cloroPct": 99.8,
           "latencyS": 6.4,
           "cloroLatencyS": 12.4
+        },
+        {
+          "pct": 99.3,
+          "cloroPct": 100,
+          "latencyS": 7.1,
+          "cloroLatencyS": 18.1
         }
       ]
     },
     {
       "engine": "GOOGLE_KEYWORD",
       "provider": "serpapi",
-      "attempts": 3748,
+      "attempts": 3374,
       "successRatePct": 99.9,
-      "cloroAttempts": 3748,
-      "cloroSuccessRatePct": 99.2,
-      "latencyS": 3.6,
-      "cloroLatencyS": 6.6,
+      "cloroAttempts": 3374,
+      "cloroSuccessRatePct": 99.1,
+      "latencyS": 3.3,
+      "cloroLatencyS": 6.7,
       "daily": [
-        {
-          "pct": 100,
-          "cloroPct": 100,
-          "latencyS": 5.6,
-          "cloroLatencyS": 7.1
-        },
         {
           "pct": 100,
           "cloroPct": 100,
@@ -2526,20 +2520,25 @@
           "cloroPct": 100,
           "latencyS": 2.4,
           "cloroLatencyS": 3.3
+        },
+        {
+          "pct": 99,
+          "cloroPct": 100,
+          "latencyS": 2.8,
+          "cloroLatencyS": 11.3
         }
       ]
     },
     {
       "engine": "AIMODE",
       "provider": "searchapi",
-      "attempts": 2537,
-      "successRatePct": 97,
-      "cloroAttempts": 2537,
-      "cloroSuccessRatePct": 99.6,
+      "attempts": 2956,
+      "successRatePct": 97.4,
+      "cloroAttempts": 2956,
+      "cloroSuccessRatePct": 99.7,
       "latencyS": 8,
-      "cloroLatencyS": 13.6,
+      "cloroLatencyS": 14.2,
       "daily": [
-        null,
         null,
         null,
         null,
@@ -2598,20 +2597,25 @@
           "cloroPct": 99.8,
           "latencyS": 8,
           "cloroLatencyS": 12.4
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 7.8,
+          "cloroLatencyS": 18.1
         }
       ]
     },
     {
       "engine": "BING_AIMODE",
       "provider": "searchapi",
-      "attempts": 2538,
-      "successRatePct": 93,
-      "cloroAttempts": 2538,
-      "cloroSuccessRatePct": 98,
-      "latencyS": 26.1,
-      "cloroLatencyS": 34.7,
+      "attempts": 2957,
+      "successRatePct": 93.7,
+      "cloroAttempts": 2957,
+      "cloroSuccessRatePct": 98.2,
+      "latencyS": 25.5,
+      "cloroLatencyS": 34.3,
       "daily": [
-        null,
         null,
         null,
         null,
@@ -2670,20 +2674,25 @@
           "cloroPct": 97.9,
           "latencyS": 27.3,
           "cloroLatencyS": 34.2
+        },
+        {
+          "pct": 98.1,
+          "cloroPct": 99.8,
+          "latencyS": 22,
+          "cloroLatencyS": 32.1
         }
       ]
     },
     {
       "engine": "CHATGPT",
       "provider": "searchapi",
-      "attempts": 2537,
+      "attempts": 2955,
       "successRatePct": 100,
-      "cloroAttempts": 2537,
-      "cloroSuccessRatePct": 99,
+      "cloroAttempts": 2955,
+      "cloroSuccessRatePct": 99.2,
       "latencyS": 17.9,
-      "cloroLatencyS": 48.7,
+      "cloroLatencyS": 49.2,
       "daily": [
-        null,
         null,
         null,
         null,
@@ -2742,20 +2751,25 @@
           "cloroPct": 100,
           "latencyS": 18.1,
           "cloroLatencyS": 39.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 17.8,
+          "cloroLatencyS": 52.1
         }
       ]
     },
     {
       "engine": "GEMINI",
       "provider": "searchapi",
-      "attempts": 2537,
+      "attempts": 2956,
       "successRatePct": 99.9,
-      "cloroAttempts": 2537,
-      "cloroSuccessRatePct": 99.6,
-      "latencyS": 16.4,
-      "cloroLatencyS": 28.8,
+      "cloroAttempts": 2956,
+      "cloroSuccessRatePct": 99.7,
+      "latencyS": 16.1,
+      "cloroLatencyS": 30.8,
       "daily": [
-        null,
         null,
         null,
         null,
@@ -2814,20 +2828,25 @@
           "cloroPct": 100,
           "latencyS": 17.5,
           "cloroLatencyS": 29.9
+        },
+        {
+          "pct": 100,
+          "cloroPct": 99.8,
+          "latencyS": 14.6,
+          "cloroLatencyS": 42.7
         }
       ]
     },
     {
       "engine": "GOOGLE_KEYWORD",
       "provider": "searchapi",
-      "attempts": 605,
-      "successRatePct": 99.8,
-      "cloroAttempts": 605,
-      "cloroSuccessRatePct": 99.8,
-      "latencyS": 3.8,
-      "cloroLatencyS": 4,
+      "attempts": 705,
+      "successRatePct": 99.9,
+      "cloroAttempts": 705,
+      "cloroSuccessRatePct": 99.9,
+      "latencyS": 3.9,
+      "cloroLatencyS": 5,
       "daily": [
-        null,
         null,
         null,
         null,
@@ -2886,6 +2905,12 @@
           "cloroPct": 100,
           "latencyS": 4.2,
           "cloroLatencyS": 3.3
+        },
+        {
+          "pct": 100,
+          "cloroPct": 100,
+          "latencyS": 4.3,
+          "cloroLatencyS": 11.3
         }
       ]
     }
@@ -2894,170 +2919,170 @@
     {
       "metric": "has_aioverview",
       "provider": "cloro",
-      "pct": 80.5,
-      "n": 12666
+      "pct": 80.6,
+      "n": 12668
     },
     {
       "metric": "has_aioverview",
       "provider": "serpapi",
-      "pct": 91.3,
-      "n": 12666
+      "pct": 91.5,
+      "n": 12668
     },
     {
       "metric": "has_aioverview_ads",
       "provider": "cloro",
       "pct": 0,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_aioverview_sources",
       "provider": "cloro",
-      "pct": 71.1,
-      "n": 12666
+      "pct": 71,
+      "n": 12668
     },
     {
       "metric": "has_aioverview_sources",
       "provider": "serpapi",
       "pct": 78.2,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_aioverview_videos",
       "provider": "cloro",
       "pct": 27.7,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_aioverview_videos",
       "provider": "serpapi",
       "pct": 0,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_citation_pills",
       "provider": "cloro",
-      "pct": 70.3,
-      "n": 12666
+      "pct": 70.2,
+      "n": 12668
     },
     {
       "metric": "has_citation_pills",
       "provider": "serpapi",
-      "pct": 74.7,
-      "n": 12666
+      "pct": 75.1,
+      "n": 12668
     },
     {
       "metric": "has_knowledge_graph",
       "provider": "cloro",
-      "pct": 2.6,
-      "n": 12666
+      "pct": 2.7,
+      "n": 12668
     },
     {
       "metric": "has_knowledge_graph",
       "provider": "serpapi",
-      "pct": 10.9,
-      "n": 12666
+      "pct": 10.8,
+      "n": 12668
     },
     {
       "metric": "has_local_results",
       "provider": "cloro",
       "pct": 8.2,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_local_results",
       "provider": "serpapi",
       "pct": 9.4,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_organic_results",
       "provider": "cloro",
       "pct": 97.9,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_organic_results",
       "provider": "serpapi",
       "pct": 96.1,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_people_also_ask",
       "provider": "cloro",
-      "pct": 85,
-      "n": 12666
+      "pct": 84.8,
+      "n": 12668
     },
     {
       "metric": "has_people_also_ask",
       "provider": "serpapi",
-      "pct": 79.9,
-      "n": 12666
+      "pct": 79.5,
+      "n": 12668
     },
     {
       "metric": "has_people_are_saying",
       "provider": "cloro",
       "pct": 0.4,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_people_are_saying",
       "provider": "serpapi",
-      "pct": 0.5,
-      "n": 12666
+      "pct": 0.4,
+      "n": 12668
     },
     {
       "metric": "has_related_links",
       "provider": "cloro",
-      "pct": 6,
-      "n": 12666
+      "pct": 5.2,
+      "n": 12668
     },
     {
       "metric": "has_related_searches",
       "provider": "cloro",
-      "pct": 71.4,
-      "n": 12666
+      "pct": 70.8,
+      "n": 12668
     },
     {
       "metric": "has_related_searches",
       "provider": "serpapi",
-      "pct": 55.4,
-      "n": 12666
+      "pct": 53.6,
+      "n": 12668
     },
     {
       "metric": "has_shopping_cards",
       "provider": "cloro",
-      "pct": 5.8,
-      "n": 12666
+      "pct": 5.7,
+      "n": 12668
     },
     {
       "metric": "has_shopping_cards",
       "provider": "serpapi",
-      "pct": 5.4,
-      "n": 12666
+      "pct": 5.5,
+      "n": 12668
     },
     {
       "metric": "has_sponsored_ads",
       "provider": "cloro",
       "pct": 2.7,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "has_sponsored_ads",
       "provider": "serpapi",
       "pct": 3.4,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "success_rate",
       "provider": "cloro",
       "pct": 97.9,
-      "n": 12666
+      "n": 12668
     },
     {
       "metric": "success_rate",
       "provider": "serpapi",
       "pct": 96.1,
-      "n": 12666
+      "n": 12668
     }
   ]
 }
